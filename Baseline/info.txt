@@ -1,0 +1,4 @@
+Tidak ada project name, 
+Tidak ada kode template kalimat, 
+Menggunakan K-Fold Cross Validation,
+Fitur numerik: number of word dan number of scenario
